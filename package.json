@@ -1,0 +1,27 @@
+{
+  "name": "macheightcodechallenge",
+  "version": "1.0.0",
+  "description": "Code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonatanjosm/MachEightCodeChallenge.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Javascript"
+  ],
+  "author": "Jonatan Murcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonatanjosm/MachEightCodeChallenge/issues"
+  },
+  "homepage": "https://github.com/jonatanjosm/MachEightCodeChallenge#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
